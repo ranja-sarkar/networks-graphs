@@ -1,10 +1,10 @@
+
 import pandas as pd
 import numpy as np
 import networkx as nx
 import matplotlib.pyplot as plt
 
-
-data = pd.read_csv('/kaggle/input/airline/FlightsUSA.csv')
+data = pd.read_csv('FlightsUSA.csv')
 df = nx.from_pandas_edgelist(data, source = 'Origin', target = 'Dest', edge_attr = True)
 
 #df.nodes()
@@ -17,4 +17,5 @@ shortest_dist = nx.dijkstra_path(df, source = 'LAS', target = 'PBI', weight = 'D
 shortest_airtime = nx.dijkstra_path(df, source = 'LAS', target = 'PBI', weight = 'AirTime')
 
 print(shortest_dist,shortest_airtime)
+
 
