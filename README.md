@@ -1,14 +1,14 @@
 # graphs
 
--> from weighted graph, finding most optimal (flight) routes in terms of distance as well as airtime using Dijkstra algorithm
+**Find most optimal (flight) routes in terms of distance and airtime using Dijkstra algorithm from weighted graphs**
 
 More on Dijkstra algorithm for a graph geodesic:
 https://mathworld.wolfram.com/DijkstrasAlgorithm.html
 
--> knowledge graphs (directed) with different layouts:
+**knowledge graphs (directed) from unstructured data with different layouts:**
 https://www.kaggle.com/code/ranja7/knowledge-graphs-networkx-layouts
 
--> social networks (graphs) from your data of connections (contacts on social site)
+**Social networks/graphs from your data of connections or contacts on social site**
 <img width="430" alt="1" src="https://github.com/ranja-sarkar/graphs/assets/101544669/60548b7b-ca26-4129-a39f-53484fb5e415">
 
 
