@@ -13,6 +13,8 @@ https://www.sciencedirect.com/science/article/abs/pii/S0025556417303140
 
 Wikipedia reference: https://en.wikipedia.org/wiki/Anisotropic_Network_Model
 
+Studying protein dynamics with python: http://prody.csb.pitt.edu/tutorials/enm_analysis/
+
 
 **Find most optimal (flight) routes in terms of distance and airtime using Dijkstra algorithm from weighted graphs**
 
