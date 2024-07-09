@@ -31,14 +31,14 @@ Studying protein dynamics with python: http://prody.csb.pitt.edu/tutorials/enm_a
 More on Dijkstra algorithm for a graph geodesic:
 https://mathworld.wolfram.com/DijkstrasAlgorithm.html
 
-**Knowledge graphs (directed) from unstructured data with different layouts:**
+**Create knowledge graphs (directed) from unstructured data and visualize with different layouts:**
 https://www.kaggle.com/code/ranja7/knowledge-graphs-networkx-layouts
 
-**Social networks/graphs from your data of connections or contacts on social site**
+**Do social network analysis with graphs from your data of connections or contacts on social site**
 <img width="430" alt="1" src="https://github.com/ranja-sarkar/graphs/assets/101544669/60548b7b-ca26-4129-a39f-53484fb5e415">
 
 
-
+And there are operations research problems (routing etc.) that can be solved utilizing network science.
 
 
 
