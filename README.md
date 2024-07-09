@@ -24,7 +24,7 @@ Wikipedia reference: https://en.wikipedia.org/wiki/Anisotropic_Network_Model
 
 Studying protein dynamics with python: http://prody.csb.pitt.edu/tutorials/enm_analysis/
 
-**USE CASES**
+**OTHER USE CASES**
 
 **Find most optimal (flight) routes in terms of distance and airtime using Dijkstra algorithm from (weighted) graphs**
 
@@ -34,11 +34,11 @@ https://mathworld.wolfram.com/DijkstrasAlgorithm.html
 **Create knowledge graphs (directed) from unstructured data and visualize with different layouts:**
 https://www.kaggle.com/code/ranja7/knowledge-graphs-networkx-layouts
 
-**Do social network analysis with graphs from your data of connections or contacts on social site**
+**Do social network analysis with graphs from your data of connections/contacts on social site**
 <img width="430" alt="1" src="https://github.com/ranja-sarkar/graphs/assets/101544669/60548b7b-ca26-4129-a39f-53484fb5e415">
 
 
-And there are operations research problems (routing etc.) that can be solved utilizing network science.
+**And there are operations research problems (routing etc.) that can be solved utilizing network science.**
 
 
 
