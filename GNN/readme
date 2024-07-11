@@ -1,0 +1,22 @@
+
+Deep learning architectures that are GNNs at the core:
+
+1) CNN
+GNNs on graphs with translational symmetry in all dimensions are CNNs.
+
+2) RNN
+GNNs on one-dimemsional directed line graph dictating how the tokens of a sentence flow in are RNNs.
+
+3) Transformer
+For encoders, the self-attention mechanism can be viewed as a neural network on a fully connected graph on all tokens of the context window. For causal self-attention in decoders they can be seen as a special directed graph where one token is connected to all previous tokens in the context window.
+
+Understanding these connections (pun intended!) helps us bring order to the architecture zoo. This makes it easier for newcomers to enter the field and for experts to push the boundaries towards more performant architectures.
+
+Even outside of the core neural network architecture, graphs can push the performance of model by giving it access to additional knowledge about the world:
+
+Retrieval augmented generation (RAG) currently is a go-to approach to reduce hallucination of large language model (LLM) systems and give them access to new information. ]
+Typically, we do this in the form of additional text snippets or tabular data identified via vector similarity.
+
+
+Data stored in graph databases is much better suited as input due to their ability to provide the complex relationships between objects.
+This is why systems leveraging graph RAG are on the rise.
