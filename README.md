@@ -15,8 +15,8 @@ https://www.pnas.org/doi/full/10.1073/pnas.0902159106
 **-> Elastic network model (coarse-grained model) to study protein dynamics:**
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6320916/
-
 <img width="287" alt="1" src="https://github.com/ranja-sarkar/networks-graphs/assets/101544669/c5f569bd-69ef-42b9-aaf3-ec9d817d405c">
+
 
 
 **-> My work on anisotropic model:**
@@ -39,8 +39,8 @@ https://mathworld.wolfram.com/DijkstrasAlgorithm.html
 https://www.kaggle.com/code/ranja7/knowledge-graphs-networkx-layouts
 
 **-> Do social network analysis with graphs from your data of connections/contacts on social site**
-
 <img width="430" alt="1" src="https://github.com/ranja-sarkar/graphs/assets/101544669/60548b7b-ca26-4129-a39f-53484fb5e415">
+
 
 
 **-> There are operations research problems (routing etc.) that can be solved utilizing network science.**
