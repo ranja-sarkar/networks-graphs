@@ -15,6 +15,7 @@ https://www.pnas.org/doi/full/10.1073/pnas.0902159106
 **-> Elastic network model (coarse-grained model) to study protein dynamics:**
 
 <img width="287" alt="1" src="https://github.com/ranja-sarkar/networks-graphs/assets/101544669/c5f569bd-69ef-42b9-aaf3-ec9d817d405c">
+
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6320916/
 
 
@@ -25,6 +26,7 @@ https://www.sciencedirect.com/science/article/abs/pii/S0025556417303140
 
 
 Wikipedia reference: https://en.wikipedia.org/wiki/Anisotropic_Network_Model
+
 Studying protein dynamics with python: http://prody.csb.pitt.edu/tutorials/enm_analysis/
 
 **OTHER USE CASES**
