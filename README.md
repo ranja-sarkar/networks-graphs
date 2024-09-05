@@ -8,6 +8,9 @@ There's a chapter "**Graph Theory**' dedicated to graphs and their usage, in **m
 
 To know about **graph data structures and how they serve as inputs to GNNs (deep learning models),**  please read **chapter 6 of the book**.
 
+-> https://a.co/d/7Yz0usb
+
+
 **Studying a protein with an elastic network model that includes coarse-grained Gaussian network model (GNM) and atomic anisotropic network model (ANM):**
 https://www.pnas.org/doi/full/10.1073/pnas.0902159106
 
