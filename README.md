@@ -39,7 +39,7 @@ Studying protein dynamics with python: http://prody.csb.pitt.edu/tutorials/enm_a
 More on Dijkstra algorithm for a graph geodesic:
 https://mathworld.wolfram.com/DijkstrasAlgorithm.html
 
-**-> Create knowledge graphs (directed) from unstructured data and visualize with different layouts:**
+**-> Create knowledge graphs (directed) from unstructured data** (document, webpage, etc.):
 https://www.kaggle.com/code/ranja7/knowledge-graphs-networkx-layouts
 
 **-> Do social network analysis with graphs from your data of connections/contacts on social site**
