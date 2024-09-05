@@ -47,7 +47,7 @@ https://www.kaggle.com/code/ranja7/knowledge-graphs-networkx-layouts
 
 
 
-**-> There are operations research problems (routing etc.) that can be solved utilizing network science.**
+**-> There are operations research problems (routing etc.) that can be solved utilizing Network Science.**
 
 
 
