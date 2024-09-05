@@ -21,8 +21,9 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6320916/
 
 **-> My work on anisotropic model:**
 
-https://link.springer.com/article/10.1186/s13628-017-0034-9
-https://www.sciencedirect.com/science/article/abs/pii/S0025556417303140
+1) https://link.springer.com/article/10.1186/s13628-017-0034-9
+   
+2) https://www.sciencedirect.com/science/article/abs/pii/S0025556417303140
 
 
 Wikipedia reference: https://en.wikipedia.org/wiki/Anisotropic_Network_Model
