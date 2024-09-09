@@ -12,7 +12,12 @@ To know about **graph data structures and how they serve as inputs to graph neur
 
 
 **Studying a protein with an elastic network model that includes coarse-grained Gaussian network model (GNM) and atomic anisotropic network model (ANM):**
+
 https://www.pnas.org/doi/full/10.1073/pnas.0902159106
+
+https://www3.mpibpc.mpg.de/groups/de_groot/pdf/Hayward_deGroot_nm_ed.pdf
+
+
 
 **-> Elastic network model (coarse-grained model) to study protein dynamics:**
 
