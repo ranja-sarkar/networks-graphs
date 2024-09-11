@@ -6,7 +6,7 @@ There's a chapter "**Graph Theory**' in my book **'A handbook of mathematical mo
 
 <img width="143" alt="1" src="https://github.com/ranja-sarkar/graphs/assets/101544669/d0e2580e-46d9-4c07-9311-937fa2966179">
 
-To know about **graph data structures and how they serve as inputs to graph neural networks (GNNs),**  please read **chapter 6 of the book**.
+To know about **graph data structures and how they serve as inputs to graph neural networks (GNNs),**  please read **chapter 6** of the book.
 
 -> https://a.co/d/7Yz0usb
 
