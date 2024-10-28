@@ -42,10 +42,13 @@ Studying protein dynamics with python: http://prody.csb.pitt.edu/tutorials/enm_a
 **-> Find most optimal (flight) routes in terms of distance and airtime using Dijkstra algorithm from (weighted) graphs**
 
 More on Dijkstra algorithm for a graph geodesic:
+
 https://mathworld.wolfram.com/DijkstrasAlgorithm.html
 
 **-> Create knowledge graphs (directed) from unstructured data** (document, webpage, etc.):
-https://www.kaggle.com/code/ranja7/knowledge-graphs-networkx-layouts
+
+https://colab.research.google.com/drive/1EF_ra7u6qHqG5p5vmYDYC9X5Y06hsub7?usp=sharing
+
 
 **-> Do social network analysis with graphs from your data of connections/contacts on social site**
 <img width="430" alt="1" src="https://github.com/ranja-sarkar/graphs/assets/101544669/60548b7b-ca26-4129-a39f-53484fb5e415">
