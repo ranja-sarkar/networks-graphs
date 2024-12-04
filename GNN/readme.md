@@ -9,7 +9,11 @@ GNNs on graphs with translational symmetry in all dimensions are Convolutional N
 
 
 -> **RNN**
-GNNs on one-dimemsional directed line graph dictating how the tokens of a sentence flow in are RNNs.
+
+GNNs on one-dimemsional directed line graph (which dictates how the tokens of a sentence flow in, for example) are Recurrent Neural Networks.
+
+<img width="461" alt="22" src="https://github.com/user-attachments/assets/54e1644e-1a26-48d8-88e0-e562cc2c627b">
+
 
 -> **Transformer**
 The self-attention mechanism in decoders can be viewed as a neural network on a fully connected graph on all tokens of the context window. 
