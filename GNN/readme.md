@@ -1,3 +1,7 @@
+An excerpt from **Chapter 6 (Graphs)** of my book:
+
+<img width="285" alt="00" src="https://github.com/user-attachments/assets/c405b727-d5d6-45b7-a078-b1dcbd6de7fc">
+
 
 **Deep learning architectures that are GNNs at the core**:-
 
@@ -19,7 +23,8 @@ GNNs on one-dimemsional directed line graph (which dictates how the tokens of a 
 
 The self-attention mechanism in decoders can be viewed as a neural network on a fully connected graph on all tokens of the context window. 
 
-![Uploading 44.png…]()
+<img width="508" alt="44" src="https://github.com/user-attachments/assets/145b6eed-fe4d-42db-bde8-cbda03b0665a">
+
 
 
 For causal self-attention, it can be thought of as special directed graph where one token is connected to all previous tokens 
