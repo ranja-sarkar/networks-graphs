@@ -2,7 +2,11 @@
 **Deep learning architectures that are GNNs at the core**:-
 
 -> **CNN**
-GNNs on graphs with translational symmetry in all dimensions are CNNs.
+
+GNNs on graphs with translational symmetry in all dimensions are Convolutional Neural Networks.
+
+<img width="533" alt="11" src="https://github.com/user-attachments/assets/524b4680-fb94-4384-8ceb-876e2c5ab8af">
+
 
 -> **RNN**
 GNNs on one-dimemsional directed line graph dictating how the tokens of a sentence flow in are RNNs.
