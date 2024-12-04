@@ -18,6 +18,10 @@ GNNs on one-dimemsional directed line graph (which dictates how the tokens of a 
 -> **Transformer**
 
 The self-attention mechanism in decoders can be viewed as a neural network on a fully connected graph on all tokens of the context window. 
+
+![Uploading 44.png…]()
+
+
 For causal self-attention, it can be thought of as special directed graph where one token is connected to all previous tokens 
 in the context window.
 
