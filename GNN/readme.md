@@ -16,9 +16,13 @@ GNNs on one-dimemsional directed line graph (which dictates how the tokens of a 
 
 
 -> **Transformer**
+
 The self-attention mechanism in decoders can be viewed as a neural network on a fully connected graph on all tokens of the context window. 
 For causal self-attention, it can be thought of as special directed graph where one token is connected to all previous tokens 
 in the context window.
+
+<img width="303" alt="33" src="https://github.com/user-attachments/assets/695aab44-e1a9-4f47-b45e-ceb620f15248">
+
 
 Outside of the core network architecture, graphs can push the performance of model by giving it access to additional knowledge about the world. 
 Retrieval augmented generation (RAG) currently is a go-to approach to reduce hallucination of LLMs by giving them access to new information.
