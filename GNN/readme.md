@@ -33,8 +33,6 @@ in the context window.
 <img width="303" alt="33" src="https://github.com/user-attachments/assets/695aab44-e1a9-4f47-b45e-ceb620f15248">
 
 
-Outside of the core network architecture, graphs can push the performance of model by giving it access to additional knowledge about the world. 
+**Outside of the core network architecture, graphs can push the performance of model by giving it access to additional knowledge about the world. 
 Retrieval augmented generation (RAG) currently is a go-to approach to reduce hallucination of LLMs by giving them access to new information.
-Typically this is done by text or tabular data identified via vector similarity. 
-On the other hand, data stored in graph databases is much better suited as input here, due to their ability to provide the complex relationships 
-between data objects. This is why systems leveraging graphRAG are on the rise.
+Typically this is done by text or tabular data identified via vector similarity. However, data stored in graph databases is much better suited as input here, due to their ability to provide the complex relationships between data objects. This is why systems leveraging graphRAG are on the rise.**
