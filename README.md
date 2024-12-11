@@ -1,6 +1,6 @@
 # graphs
 
-Chapter 6 called **Graph Theory** in my book **'A handbook of mathematical models with python'** talks about graphs, graph-structured data, and how they serve as inputs to graph neural networks (GNNs). 
+**Chapter 6** called Graph Theory in my book **'A handbook of mathematical models with python'** talks about graphs, graph-structured data, and how they serve as inputs to graph neural networks (GNNs). 
 
 <img width="299" alt="3" src="https://github.com/ranja-sarkar/networks-graphs/assets/101544669/be422333-5db9-4afb-90c6-b2150109aef6">
 
@@ -24,7 +24,7 @@ https://www3.mpibpc.mpg.de/groups/de_groot/pdf/Hayward_deGroot_nm_ed.pdf
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6320916/
 
 
-**-> My work on anisotropic model:**
+**-> My work on anisotropic network model:**
 
 1) https://link.springer.com/article/10.1186/s13628-017-0034-9
    
