@@ -37,7 +37,10 @@ Studying protein dynamics with python: http://prody.csb.pitt.edu/tutorials/enm_a
 
 **OTHER USE CASES**
 
-**-> Find most optimal (flight) routes in terms of distance and airtime using Dijkstra algorithm from (weighted) graphs**
+**-> Find most optimal (flight) routes in terms of distance & airtime using Dijkstra algorithm from (weighted) graphs**
+
+<img width="464" alt="ff" src="https://github.com/user-attachments/assets/b38b587e-ac0b-4603-90ca-a596da47feab" />
+
 
 More on Dijkstra algorithm for a graph geodesic:
 
