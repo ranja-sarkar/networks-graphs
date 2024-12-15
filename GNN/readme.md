@@ -3,7 +3,7 @@ An excerpt from **Chapter 6** of my book:
 <img width="285" alt="00" src="https://github.com/user-attachments/assets/c405b727-d5d6-45b7-a078-b1dcbd6de7fc">
 
 
-**Deep learning architectures** that are GNNs at the core:-
+**Deep learning architectures** like the following are all Graph Neural Networks (GNNs) at their core. 
 
 -> **CNN**
 
@@ -36,7 +36,7 @@ in the context window.
 **Outside of the core network architecture, graphs can push the performance of model by giving it access to additional knowledge about the world.** 
 
 Retrieval augmented generation (RAG) currently is a go-to approach to reduce hallucination of LLMs by giving them access to new information.
-Typically this is done by text or tabular data identified via vector similarity. However, data stored in graph databases is much better suited as input here, due to their ability to provide the complex relationships between data objects. This is why systems leveraging graphRAG are on the rise.
+Typically this is done by text or tabular data identified via vector similarity. However, data stored in graph databases is much better suited as input here, due to their ability to provide the complex relationships between data objects. This is why systems leveraging **graphRAG** are on the rise.
 
 
 <img width="271" alt="11" src="https://github.com/user-attachments/assets/c17b8993-26a2-4da4-ac42-3787e8f1556b">
