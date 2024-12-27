@@ -39,4 +39,3 @@ Retrieval augmented generation (RAG) currently is a go-to approach to reduce hal
 Typically this is done by text or tabular data identified via vector similarity. However, data stored in graph databases is much better suited as input here, due to their ability to provide the complex relationships between data objects. This is why systems leveraging **graphRAG** are on the rise.
 
 
-<img width="271" alt="11" src="https://github.com/user-attachments/assets/c17b8993-26a2-4da4-ac42-3787e8f1556b">
