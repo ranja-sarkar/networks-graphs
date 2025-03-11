@@ -48,7 +48,7 @@ https://mathworld.wolfram.com/DijkstrasAlgorithm.html
 
 **-> Create knowledge graphs (directed) from unstructured data** (document, webpage, etc.):
 
-https://colab.research.google.com/drive/1EF_ra7u6qHqG5p5vmYDYC9X5Y06hsub7?usp=sharing
+https://colab.research.google.com/drive/1EF_ra7u6qHqG5p5vmYDYC9X5Y06hsub7
 
 
 **-> Do social network analysis with graphs from your data of connections/contacts on social site**
