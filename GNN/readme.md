@@ -1,3 +1,8 @@
+# Understanding convolutions
+
+
+#-----------
+
 An excerpt from **Chapter 6** of my book:
 
 <img width="285" alt="00" src="https://github.com/user-attachments/assets/c405b727-d5d6-45b7-a078-b1dcbd6de7fc">
