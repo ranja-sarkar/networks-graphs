@@ -3,7 +3,9 @@ An excerpt from **Chapter 6** of my book:
 <img width="285" alt="00" src="https://github.com/user-attachments/assets/c405b727-d5d6-45b7-a078-b1dcbd6de7fc">
 
 
-**Deep learning architectures** like the following are all Graph Neural Networks (GNNs) at their core. 
+**Deep learning architectures** like the following are all Graph Neural Networks (GNNs) at their core. When the input data is graph structured, GNNs can make predictions about interacting entities, compared to models (where input data isn't graph structured or regular structured) that consider individual entities in isolation. 
+
+----
 
 
 GNNs on graphs with translational symmetry in all dimensions are **CNNs (Convolutional Neural Networks)**.
