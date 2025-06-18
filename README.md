@@ -1,4 +1,3 @@
-# graphs
 
 **Chapter 6** called Graph Theory in my book **'A handbook of mathematical models with python'** talks about graphs, graph-structured data, and how they serve as inputs to graph neural networks (GNNs). 
 
