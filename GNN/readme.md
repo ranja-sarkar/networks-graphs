@@ -25,6 +25,6 @@ For causal self-attention, it can be thought of as a (special) directed graph wh
 
 -----------
 
-Retrieval augmented generation (RAG) currently is a go-to approach to reduce hallucination of LLMs by giving them access to new information via vector databases and grpah databases. Typically this is done by text or tabular data identified via vector similarity from vector databases however, data stored in graph databases is better suited as input due to their ability to provide the complex relationships between data objects. This is why systems leveraging **graphRAG** are on the rise.
+Retrieval augmented generation (RAG) currently is a go-to approach to reduce hallucination of LLMs by giving them access to new information via vector databases and graph databases. Typically this is done by identification of data via vector similarity from vector databases however, data stored in graph databases is better suited as input due to their ability to provide the complex relationships between data objects. This is why systems leveraging **graphRAG** are on the rise.
 
 
