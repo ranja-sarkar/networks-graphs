@@ -45,15 +45,15 @@ More on Dijkstra algorithm for a graph geodesic:
 
 https://mathworld.wolfram.com/DijkstrasAlgorithm.html
 
-For many decades, Dijkstra's algorithm has been the undisputed champion for finding the shortest path in graphs. Howeverm the first major breakthrough for the directed Single-Source Shortest Path (SSSP) problem on real-weighted graphs, breaking the long-standing "sorting barrier" that made Dijkstra's algorithm seem optimal came. 
+For many decades, Dijkstra's algorithm has been the undisputed champion for finding the shortest path in graphs. However, the first major breakthrough for the directed Single-Source Shortest Path (SSSP) problem on real-weighted graphs, breaking the long-standing "sorting barrier" that made Dijkstra's algorithm seem optimal came. 
 
 Paper: https://arxiv.org/pdf/2504.17033
 
-The method ingeniously combines the logic of Dijkstra's and the Bellman-Ford algorithms. Through a clever recursive technique, it avoids the need to fully sort vertices by distance, which was the core bottleneck.
+The method ingeniously combines the logic of Dijkstra's and the Bellman-Ford algorithms. Through a clever recursive technique, it avoids the need to fully sort vertices by distance which was the bottleneck.
 The result is a faster, deterministic algorithm that runs in O(mlog2/3n) time.
 This has practical implications for speeding up route calculations in GPS, optimizing data flow in computer networks, and improving efficiency in logistics. A fundamental problem just got a new, faster solution.
 
-For more on time-complexity of algorithms: https://ranjas.substack.com/p/data-structures-and-algorithms
+For more on time-complexity of algorithms, read https://ranjas.substack.com/p/data-structures-and-algorithms
 
 
 **-> Create knowledge graphs (directed) from unstructured data** (document, webpage, etc.):
