@@ -9,7 +9,7 @@ Buy book from Amazon: https://a.co/d/7Yz0usb
 
 -----
 
-**Studying a protein with an elastic network model that includes coarse-grained Gaussian network model (GNM) and atomic anisotropic network model (ANM):**
+**Studying a protein with an elastic network model (ENM) that includes coarse-grained Gaussian network model (GNM) and atomic anisotropic network model (ANM):**
 
 https://www.pnas.org/doi/full/10.1073/pnas.0902159106
 
@@ -25,7 +25,7 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6320916/
 
 -----
 
-**-> My work on anisotropic network model**
+**-> My work on anisotropic network model (ANM)**
 
 1) **Paper 1**: https://link.springer.com/article/10.1186/s13628-017-0034-9
    
@@ -71,12 +71,13 @@ https://colab.research.google.com/drive/1EF_ra7u6qHqG5p5vmYDYC9X5Y06hsub7
 
 <img width="430" alt="1" src="https://github.com/ranja-sarkar/graphs/assets/101544669/60548b7b-ca26-4129-a39f-53484fb5e415">
 
+
 Refer: notebook/graphs-network.ipynb ☝️
 
 -------
 
 
--> There are operations research problems (routing etc.) that can be solved utilizing Network Science.
+-> Operations research (OR) problems (routing etc.) that are solved utilizing Network Science.
 
 Reference: https://developers.google.com/optimization
 
