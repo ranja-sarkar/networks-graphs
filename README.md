@@ -29,7 +29,7 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6320916/
 
 1) **Paper 1**: https://link.springer.com/article/10.1186/s13628-017-0034-9
    
-2) ++Paper 2**: https://www.sciencedirect.com/science/article/abs/pii/S0025556417303140
+2) **Paper 2**: https://www.sciencedirect.com/science/article/abs/pii/S0025556417303140
 
 
 Wikipedia reference: https://en.wikipedia.org/wiki/Anisotropic_Network_Model
@@ -40,7 +40,7 @@ Studying protein dynamics with python: http://prody.csb.pitt.edu/tutorials/enm_a
 
 **OTHER USE CASES**
 
-**-> Find most optimal (flight) routes in terms of distance & airtime using Dijkstra algorithm from (weighted) graphs**
+**-> Most optimal (flight) routes in terms of distance & airtime using Dijkstra algorithm from (weighted) graphs**
 
 <img width="464" alt="ff" src="https://github.com/user-attachments/assets/b38b587e-ac0b-4603-90ca-a596da47feab" />
 
@@ -59,18 +59,23 @@ This has practical implications for speeding up route calculations in GPS, optim
 
 For more on time-complexity of algorithms, read https://ranjas.substack.com/p/data-structures-and-algorithms
 
+-----
 
-**-> Create knowledge graphs (directed) from unstructured data** (document, webpage, etc.):
+**-> Knowledge graphs (directed) from unstructured data** (document, webpage, etc.):
 
 https://colab.research.google.com/drive/1EF_ra7u6qHqG5p5vmYDYC9X5Y06hsub7
 
+-------
 
-**-> Do social network analysis with graphs from your data of connections/contacts on social site**
+**-> Social network analysis with graphs from your data of connections/contacts on social site**
+
 <img width="430" alt="1" src="https://github.com/ranja-sarkar/graphs/assets/101544669/60548b7b-ca26-4129-a39f-53484fb5e415">
 
+-------
 
 
-**-> There are operations research problems (routing etc.) that can be solved utilizing Network Science.**
+-> There are operations research problems (routing etc.) that can be solved utilizing Network Science.
 
+Reference: https://developers.google.com/optimization
 
 
