@@ -49,7 +49,7 @@ More on Dijkstra algorithm for a graph geodesic:
 
 https://mathworld.wolfram.com/DijkstrasAlgorithm.html
 
-For many decades, Dijkstra's algorithm has been the undisputed champion for finding the shortest path in graphs. However, the first major breakthrough for the directed Single-Source Shortest Path (SSSP) problem on real-weighted graphs, breaking the long-standing "sorting barrier" that made Dijkstra's algorithm seem optimal came. 
+&&For many decades, Dijkstra's algorithm has been the undisputed champion for finding the shortest path in graphs. However, the first major breakthrough for the directed Single-Source Shortest Path (SSSP) problem on real-weighted graphs, breaking the long-standing "sorting barrier" that made Dijkstra's algorithm seem optimal arrived in 2025.**
 
 Paper: https://arxiv.org/pdf/2504.17033
 
@@ -71,6 +71,7 @@ https://colab.research.google.com/drive/1EF_ra7u6qHqG5p5vmYDYC9X5Y06hsub7
 
 <img width="430" alt="1" src="https://github.com/ranja-sarkar/graphs/assets/101544669/60548b7b-ca26-4129-a39f-53484fb5e415">
 
+Refer: notebook/graphs-network.ipynb ☝️
 -------
 
 
