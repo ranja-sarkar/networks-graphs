@@ -55,7 +55,9 @@ Paper: https://arxiv.org/pdf/2504.17033
 
 The method ingeniously combines the logic of Dijkstra's and the Bellman-Ford algorithms. Through a clever recursive technique, it avoids the need to fully sort vertices by distance which was the bottleneck.
 The result is a faster, deterministic algorithm that runs in O(mlog2/3n) time.
-This has practical implications for speeding up route calculations in GPS, optimizing data flow in computer networks, and improving efficiency in logistics. A fundamental problem just got a new, faster solution.
+This has practical implications for speeding up route calculations in GPS, optimizing data flow in computer networks, and improving efficiency in logistics. 
+
+💡 **A fundamental problem just got a new, faster solution.**
 
 Runtime complexity of algorithms: https://ranjas.substack.com/p/data-structures-and-algorithms
 
