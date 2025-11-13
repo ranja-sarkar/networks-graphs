@@ -17,7 +17,7 @@ https://www3.mpibpc.mpg.de/groups/de_groot/pdf/Hayward_deGroot_nm_ed.pdf
 
 
 
-**-> Elastic network model (coarse-grained model) to study protein dynamics:**
+**-> Elastic network model (coarse-grained model) to study protein dynamics**
 
 <img width="287" alt="1" src="https://github.com/ranja-sarkar/networks-graphs/assets/101544669/c5f569bd-69ef-42b9-aaf3-ec9d817d405c">
 
@@ -25,7 +25,7 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6320916/
 
 -----
 
-**-> My work on anisotropic network model:**
+**-> My work on anisotropic network model**
 
 1) **Paper 1**: https://link.springer.com/article/10.1186/s13628-017-0034-9
    
@@ -61,7 +61,7 @@ For more on time-complexity of algorithms, read https://ranjas.substack.com/p/da
 
 -----
 
-**-> Knowledge graphs (directed) from unstructured data** (document, webpage, etc.):
+**-> Knowledge graphs (directed) from unstructured data** (document, webpage, etc.)
 
 https://colab.research.google.com/drive/1EF_ra7u6qHqG5p5vmYDYC9X5Y06hsub7
 
