@@ -1,9 +1,17 @@
 
-During my postdoctoral research (2013 - 2018) I had studied proteins (very dynamic entities) as [networks](https://www.pnas.org/doi/full/10.1073/pnas.0902159106) and published my findings in journal papers for a class (structurally homologous) of proteins. These are [coarse-grained](https://pmc.ncbi.nlm.nih.gov/articles/PMC6320916/) (molecular level) or fine-grained (atomic level) models to study protein dynamics. And I did it with [python](http://prody.csb.pitt.edu/tutorials/enm_analysis/).
+During my postdoctoral research (2013 - 2018) I had studied proteins (very dynamic entities) as [networks](https://www.pnas.org/doi/full/10.1073/pnas.0902159106) and published my findings in journal papers for a class (structurally homologous) of proteins. These are [coarse-grained](https://pmc.ncbi.nlm.nih.gov/articles/PMC6320916/) (molecular level) or fine-grained (atomic level) network models to study protein dynamics. And I did it with [python](http://prody.csb.pitt.edu/tutorials/enm_analysis/).
 
 <img width="287" alt="1" src="https://github.com/ranja-sarkar/networks-graphs/assets/101544669/c5f569bd-69ef-42b9-aaf3-ec9d817d405c">
 
-I utilized elastoc network model (ENM) and anisotropic network model (ANM) at the atomic level to figure out protein conformational flexibility essential for the proteins to function. Principal component analysis (PCA) is leveraged to understand the [normal modes or equilibrium conformations](https://www3.mpibpc.mpg.de/groups/de_groot/pdf/Hayward_deGroot_nm_ed.pdf) of proteins.
+I utilized elastoc network model (ENM) and atomic anisotropic network model (ANM) to figure out protein conformational flexibility essential for the proteins to function. Principal component analysis (PCA) is leveraged to understand the [normal modes or equilibrium conformations](https://www3.mpibpc.mpg.de/groups/de_groot/pdf/Hayward_deGroot_nm_ed.pdf) of proteins.
+
+My papers:
+
+1. [Native flexibility of structurally homogous proteins](https://link.springer.com/article/10.1186/s13628-017-0034-9)
+
+2. [Stiffening of flexible SUMO1 protein upon peptide-binding: Analysis with ANM](https://www.sciencedirect.com/science/article/abs/pii/S0025556417303140)
+
+-----
 
 Having shifted my research focus from Mathematical Physics to Biophysics, little did I realize at that time that 'Network Science' is relevant for other systems too, like social media, logistics & transportation, recommenders. 
 
@@ -16,13 +24,6 @@ When I come to think of it, it is only about knowing how to connect the nodes in
 <img width="299" alt="3" src="https://github.com/ranja-sarkar/networks-graphs/assets/101544669/be422333-5db9-4afb-90c6-b2150109aef6">
 
 -----
-
-
-
-1) **Paper 1**: https://link.springer.com/article/10.1186/s13628-017-0034-9
-   
-2) **Paper 2**: https://www.sciencedirect.com/science/article/abs/pii/S0025556417303140
-
 
 # OTHER USE CASES
 
