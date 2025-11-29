@@ -59,21 +59,14 @@ Runtime complexity of algorithms: https://ranjas.substack.com/p/data-structures-
 
 -----
 
-**-> Knowledge graphs ([directed](https://colab.research.google.com/drive/1EF_ra7u6qHqG5p5vmYDYC9X5Y06hsub7)) from unstructured data** (document, webpage, etc.)
+**Knowledge graphs** ([directed](https://colab.research.google.com/drive/1EF_ra7u6qHqG5p5vmYDYC9X5Y06hsub7)) from unstructured data (document, webpage, etc.)
 
 -------
 
-**-> Social network analysis with graphs from your data of connections/contacts on social site**
-
-<img width="430" alt="1" src="https://github.com/ranja-sarkar/graphs/assets/101544669/60548b7b-ca26-4129-a39f-53484fb5e415">
-
-
+**Social network analysis** with graphs from your data of connections on social networking site
 
 -------
 
-
--> Operations research (OR) problems (routing etc.) that are solved utilizing Network Science.
-
-Reference: https://developers.google.com/optimization
+**Operations research (OR)** problems (routing etc.) that are solved utilizing [mathematical optimization](https://developers.google.com/optimization)
 
 
