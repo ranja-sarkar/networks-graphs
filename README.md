@@ -1,11 +1,7 @@
 
-**Chapter 6** called **Graph Theory** in my book **'A handbook of mathematical models with python'** talks about graphs, graph-structured data, and how they serve as inputs to graph neural networks (GNNs). 
+**Chapter 6** called **Graph Theory** in my book [*A handbook of mathematical models with python*](https://ranja-sarkar.github.io/) talks about graphs, graph-structured data, and how they serve as inputs to graph neural networks (GNNs). 
 
 <img width="299" alt="3" src="https://github.com/ranja-sarkar/networks-graphs/assets/101544669/be422333-5db9-4afb-90c6-b2150109aef6">
-
-Buy book from Amazon: https://a.co/d/7Yz0usb
-
-<img width="143" alt="1" src="https://github.com/ranja-sarkar/graphs/assets/101544669/d0e2580e-46d9-4c07-9311-937fa2966179">
 
 -----
 
@@ -63,9 +59,7 @@ Runtime complexity of algorithms: https://ranjas.substack.com/p/data-structures-
 
 -----
 
-**-> Knowledge graphs (directed) from unstructured data** (document, webpage, etc.)
-
-https://colab.research.google.com/drive/1EF_ra7u6qHqG5p5vmYDYC9X5Y06hsub7
+**-> Knowledge graphs ([directed](https://colab.research.google.com/drive/1EF_ra7u6qHqG5p5vmYDYC9X5Y06hsub7)) from unstructured data** (document, webpage, etc.)
 
 -------
 
