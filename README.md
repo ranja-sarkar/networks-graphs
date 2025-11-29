@@ -3,7 +3,7 @@ During my postdoctoral research (2013 - 2018) I had studied the very dynamic **p
 
 <img width="287" alt="1" src="https://github.com/ranja-sarkar/networks-graphs/assets/101544669/c5f569bd-69ef-42b9-aaf3-ec9d817d405c">
 
-I utilized elastoc network model (ENM) and atomic anisotropic network model (ANM) to figure out protein conformational flexibility essential for the proteins to function. Principal component analysis (PCA) is leveraged to understand the [normal modes or equilibrium conformations](https://www3.mpibpc.mpg.de/groups/de_groot/pdf/Hayward_deGroot_nm_ed.pdf) of proteins.
+I utilized elastic network model (ENM) and atomic anisotropic network model (ANM) to figure out protein conformational flexibility essential for the proteins in that class to function. I had to leverage Principal component analysis (PCA) also to understand the [normal modes or equilibrium conformations](https://www3.mpibpc.mpg.de/groups/de_groot/pdf/Hayward_deGroot_nm_ed.pdf) of the proteins.
 
 📌 My papers:
 
@@ -17,7 +17,7 @@ I utilized elastoc network model (ENM) and atomic anisotropic network model (ANM
 
 -----
 
-**Chapter 6** called **Graph Theory** in my book [*A handbook of mathematical models with python*](https://ranja-sarkar.github.io/) published in 2023 talks about graphs, graph-structured data, and how they serve as inputs to graph neural networks (GNNs). 
+**Chapter 6** (**Graphs**) of my book [*A handbook of mathematical models with python*](https://ranja-sarkar.github.io/) published in 2023 is dedicated to graphs and networks, graph-structured data, and how these structures of text, images etc. serve as inputs to graph neural networks (GNNs). 
 
 <img width="299" alt="3" src="https://github.com/ranja-sarkar/networks-graphs/assets/101544669/be422333-5db9-4afb-90c6-b2150109aef6">
 
@@ -25,7 +25,7 @@ I utilized elastoc network model (ENM) and atomic anisotropic network model (ANM
 
 # OTHER USE CASES
 
-📌 Most optimal flight routes in terms of distance & airtime using **Dijkstra algorithm** from (weighted) graphs
+📌 Optimal flight routes in terms of distance & airtime using **Dijkstra algorithm** from ([**weighted**](https://distill.pub/2021/gnn-intro/)) graphs
 
 <img width="464" alt="ff" src="https://github.com/user-attachments/assets/b38b587e-ac0b-4603-90ca-a596da47feab" />
 
@@ -35,7 +35,7 @@ The Dijkstra algorithm for a graph geodesic is in [the Wolfram webpage](https://
 
 The method ingeniously combines the logic of Dijkstra's and the Bellman-Ford algorithms. Through a clever recursive technique, it avoids the need to fully sort vertices by distance which was the bottleneck. The result is a [faster](https://ranjas.substack.com/p/data-structures-and-algorithms), deterministic algorithm that runs in O(mlog2/3n) time. This has practical implications for speeding up route calculations in GPS, optimizing data flow in computer networks, and improving efficiency in logistics. 
 
-💡A fundamental problem just got a new, faster solution.
+💡*A fundamental problem just got a new & faster solution*.
 
 -----
 
