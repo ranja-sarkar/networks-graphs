@@ -3,7 +3,7 @@ During my postdoctoral research (2013 - 2018) I had studied the very dynamic **p
 
 <img width="287" alt="1" src="https://github.com/ranja-sarkar/networks-graphs/assets/101544669/c5f569bd-69ef-42b9-aaf3-ec9d817d405c">
 
-I utilized elastic network model (ENM) and atomic anisotropic network model (ANM) to figure out protein conformational flexibility essential for the proteins in that class to function. I had to leverage Principal component analysis (PCA) also to understand the [normal modes or equilibrium conformations](https://www3.mpibpc.mpg.de/groups/de_groot/pdf/Hayward_deGroot_nm_ed.pdf) of the proteins.
+I utilized elastic network model (ENM) and atomic anisotropic network model (ANM) to figure out protein conformational flexibility essential for the proteins in that class to function. I had to [leverage Principal component analysis](https://www.cell.com/biophysj/fulltext/S0006-3495(14)01570-7) (PCA) also to understand the [normal modes or equilibrium conformations](https://www3.mpibpc.mpg.de/groups/de_groot/pdf/Hayward_deGroot_nm_ed.pdf) of the proteins.
 
 📌 My papers:
 
