@@ -1,11 +1,11 @@
 
-During my postdoctoral research (2013 - 2018) I had studied proteins (very dynamic entities) as [networks](https://www.pnas.org/doi/full/10.1073/pnas.0902159106) and published my findings in journal papers for a class (structurally homologous) of proteins. These are [coarse-grained](https://pmc.ncbi.nlm.nih.gov/articles/PMC6320916/) (molecular level) or fine-grained (atomic level) network models to study protein dynamics. And I did it with [python](http://prody.csb.pitt.edu/tutorials/enm_analysis/).
+During my postdoctoral research (2013 - 2018) I had studied the very dynamic **proteins** as [networks](https://www.pnas.org/doi/full/10.1073/pnas.0902159106) and published my findings in journal papers for a class (structurally homologous) of proteins. These are [coarse-grained](https://pmc.ncbi.nlm.nih.gov/articles/PMC6320916/) (molecular level) or fine-grained (atomic level) network models to study protein dynamics. And I did it with [python](http://prody.csb.pitt.edu/tutorials/enm_analysis/).
 
 <img width="287" alt="1" src="https://github.com/ranja-sarkar/networks-graphs/assets/101544669/c5f569bd-69ef-42b9-aaf3-ec9d817d405c">
 
 I utilized elastoc network model (ENM) and atomic anisotropic network model (ANM) to figure out protein conformational flexibility essential for the proteins to function. Principal component analysis (PCA) is leveraged to understand the [normal modes or equilibrium conformations](https://www3.mpibpc.mpg.de/groups/de_groot/pdf/Hayward_deGroot_nm_ed.pdf) of proteins.
 
-My papers:
+📌 My papers:
 
 1. [Native flexibility of structurally homogous proteins](https://link.springer.com/article/10.1186/s13628-017-0034-9)
 
@@ -13,13 +13,11 @@ My papers:
 
 -----
 
-Having shifted my research focus from Mathematical Physics to Biophysics, little did I realize at that time that 'Network Science' is relevant for other systems too, like social media, logistics & transportation, recommenders. 
-
-When I come to think of it, it is only about knowing how to connect the nodes in a complex world. It’s no surprise at all that the importance of hashtag#networks is ever-growing.
+*Having shifted my research focus from Mathematical Physics (doctoral) to Biophysics (postdoctoral), little did I realize at that time that **Network Science** is relevant for other systems like social media, logistics & transportation, recommenders. When I come to think of it, it only takes knowing how to connect the nodes (entities) with edges (relationships) in a complex world. It is no surprise at all that the importance of networks is ever-growing.*
 
 -----
 
-**Chapter 6** called **Graph Theory** in my book [*A handbook of mathematical models with python*](https://ranja-sarkar.github.io/) talks about graphs, graph-structured data, and how they serve as inputs to graph neural networks (GNNs). 
+**Chapter 6** called **Graph Theory** in my book [*A handbook of mathematical models with python*](https://ranja-sarkar.github.io/) published in 2023 talks about graphs, graph-structured data, and how they serve as inputs to graph neural networks (GNNs). 
 
 <img width="299" alt="3" src="https://github.com/ranja-sarkar/networks-graphs/assets/101544669/be422333-5db9-4afb-90c6-b2150109aef6">
 
@@ -37,7 +35,7 @@ The Dijkstra algorithm for a graph geodesic is in [the Wolfram webpage](https://
 
 The method ingeniously combines the logic of Dijkstra's and the Bellman-Ford algorithms. Through a clever recursive technique, it avoids the need to fully sort vertices by distance which was the bottleneck. The result is a [faster](https://ranjas.substack.com/p/data-structures-and-algorithms), deterministic algorithm that runs in O(mlog2/3n) time. This has practical implications for speeding up route calculations in GPS, optimizing data flow in computer networks, and improving efficiency in logistics. 
 
-💡 A fundamental problem just got a new, faster solution.
+💡A fundamental problem just got a new, faster solution.
 
 -----
 
