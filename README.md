@@ -1,5 +1,5 @@
 
-During my postdoctoral research (2013 - 2018) I had studied the very dynamic **proteins** as [networks](https://www.pnas.org/doi/full/10.1073/pnas.0902159106) and published my findings in journal papers for a class (structurally homologous) of proteins. These are [coarse-grained](https://pmc.ncbi.nlm.nih.gov/articles/PMC6320916/) (molecular level) or fine-grained (atomic level) network models to study protein dynamics. And I did it with [python](http://prody.csb.pitt.edu/tutorials/enm_analysis/).
+During my postdoctoral research (2013 - 2018) I had studied the very dynamic **proteins** as [networks](https://www.pnas.org/doi/full/10.1073/pnas.0902159106) and published my findings in journal papers for a class (structurally homologous) of proteins. These are [coarse-grained](https://pmc.ncbi.nlm.nih.gov/articles/PMC6320916/) (molecular level) or fine-grained (atomic level) network models to study protein dynamics. And I did it with [python](http://prody.csb.pitt.edu/tutorials/enm_analysis/). Another open-source resource is [R](http://thegrantlab.org/bio3d_v2/tutorials/normal-mode-analysis/) that can be used to study native dynamics of proteins.
 
 <img width="287" alt="1" src="https://github.com/ranja-sarkar/networks-graphs/assets/101544669/c5f569bd-69ef-42b9-aaf3-ec9d817d405c">
 
