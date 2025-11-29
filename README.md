@@ -36,37 +36,24 @@ Studying protein dynamics with python: http://prody.csb.pitt.edu/tutorials/enm_a
 
 # OTHER USE CASES
 
-**-> Most optimal (flight) routes in terms of distance & airtime using Dijkstra algorithm from (weighted) graphs**
+📌 Most optimal flight routes in terms of distance & airtime using **Dijkstra algorithm** from (weighted) graphs
 
 <img width="464" alt="ff" src="https://github.com/user-attachments/assets/b38b587e-ac0b-4603-90ca-a596da47feab" />
 
+The Dijkstra algorithm for a graph geodesic is in [the Wolfram webpage](https://mathworld.wolfram.com/DijkstrasAlgorithm.html).
 
-More on Dijkstra algorithm for a graph geodesic:
+**For many decades, Dijkstra's algorithm has been the undisputed champion for finding the shortest path in graphs. However, the first major breakthrough for the directed Single-Source Shortest Path (SSSP) problem on real-weighted graphs, breaking the long-standing "sorting barrier" that made Dijkstra's algorithm seem optimal arrived in [2025](https://arxiv.org/pdf/2504.17033).**
 
-https://mathworld.wolfram.com/DijkstrasAlgorithm.html
-
-**For many decades, Dijkstra's algorithm has been the undisputed champion for finding the shortest path in graphs. However, the first major breakthrough for the directed Single-Source Shortest Path (SSSP) problem on real-weighted graphs, breaking the long-standing "sorting barrier" that made Dijkstra's algorithm seem optimal arrived in 2025.**
-
-Paper: https://arxiv.org/pdf/2504.17033
-
-The method ingeniously combines the logic of Dijkstra's and the Bellman-Ford algorithms. Through a clever recursive technique, it avoids the need to fully sort vertices by distance which was the bottleneck.
-The result is a faster, deterministic algorithm that runs in O(mlog2/3n) time.
-This has practical implications for speeding up route calculations in GPS, optimizing data flow in computer networks, and improving efficiency in logistics. 
+The method ingeniously combines the logic of Dijkstra's and the Bellman-Ford algorithms. Through a clever recursive technique, it avoids the need to fully sort vertices by distance which was the bottleneck. The result is a [faster](https://ranjas.substack.com/p/data-structures-and-algorithms), deterministic algorithm that runs in O(mlog2/3n) time. This has practical implications for speeding up route calculations in GPS, optimizing data flow in computer networks, and improving efficiency in logistics. 
 
 💡 **A fundamental problem just got a new, faster solution.**
 
-Runtime complexity of algorithms: https://ranjas.substack.com/p/data-structures-and-algorithms
-
 -----
 
-**Knowledge graphs** ([directed](https://colab.research.google.com/drive/1EF_ra7u6qHqG5p5vmYDYC9X5Y06hsub7)) from unstructured data (document, webpage, etc.)
+📌 **Knowledge graphs** ([directed](https://colab.research.google.com/drive/1EF_ra7u6qHqG5p5vmYDYC9X5Y06hsub7)) from unstructured data (document, web, etc.)
 
--------
+📌 **Social network analysis** with graphs from your [data of connections](https://github.com/ranja-sarkar/networks-graphs/blob/444b74e376a707b09870ddfe6e282da526f1a75d/notebook/graphs-network.ipynb) on social networking site
 
-**Social network analysis** with graphs from your data of connections on social networking site
-
--------
-
-**Operations research (OR)** problems (routing etc.) that are solved utilizing [mathematical optimization](https://developers.google.com/optimization)
+📌 **Operations research (OR)** problems like routing, packing, etc.are solved utilizing [mathematical optimization](https://developers.google.com/optimization)
 
 
