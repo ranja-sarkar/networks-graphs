@@ -1,8 +1,6 @@
 
 For neural networks in general, read https://ranjas.substack.com/p/hyper-parameters-of-a-neural-network
 
-Introducing GNNs: https://distill.pub/2021/gnn-intro/
-
 
 # CNN
 
