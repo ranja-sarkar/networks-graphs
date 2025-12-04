@@ -7,7 +7,7 @@ I utilized elastic network model (ENM) and atomic anisotropic network model (ANM
 
 📌 My papers:
 
-1. [Native flexibility of structurally homogous proteins](https://link.springer.com/article/10.1186/s13628-017-0034-9)
+1. [Native flexibility of structurally homologous proteins](https://link.springer.com/article/10.1186/s13628-017-0034-9)
 
 2. [Stiffening of flexible SUMO1 protein upon peptide-binding: Analysis with ANM](https://www.sciencedirect.com/science/article/abs/pii/S0025556417303140)
 
