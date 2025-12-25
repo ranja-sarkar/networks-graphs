@@ -1,10 +1,5 @@
 
-For neural networks in general, read https://ranjas.substack.com/p/hyper-parameters-of-a-neural-network
 
-
-# CNN
-
-GNNs on graphs with translational symmetry in all dimensions are CNNs (Convolutional Neural Networks).
 
 <img width="533" alt="11" src="https://github.com/user-attachments/assets/524b4680-fb94-4384-8ceb-876e2c5ab8af">
 
