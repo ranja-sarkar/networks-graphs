@@ -1,11 +1,5 @@
 
 
-
-<img width="533" alt="11" src="https://github.com/user-attachments/assets/524b4680-fb94-4384-8ceb-876e2c5ab8af">
-
-
-# RNN 
-
 GNNs on one-dimemsional directed line graph are RNNs (Recurrent Neural Networks).
 
 <img width="461" alt="22" src="https://github.com/user-attachments/assets/54e1644e-1a26-48d8-88e0-e562cc2c627b">
