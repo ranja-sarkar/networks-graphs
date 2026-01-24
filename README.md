@@ -19,7 +19,7 @@ Having shifted my research focus from Mathematical Physics (doctoral) to Biophys
 
 -----
 
-**Chapter 6** (**Graphs**) of my book [A handbook of mathematical models with python](https://ranja-sarkar.github.io/) published in 2023 is dedicated to graphs and networks, and how they utilize graph-structured data to serve as inputs to [graph neural networks (GNNs)](https://distill.pub/2021/gnn-intro/). 
+**Chapter 6** (**Graphs**) of my book [A handbook of mathematical models with python](https://ranja-sarkar.github.io/) published in 2023 is dedicated to graphs and networks. It is about how graph-structured data (images, text, etc.) serve as input to [graph neural networks (GNNs)](https://distill.pub/2021/gnn-intro/). 
 
 <img width="299" alt="3" src="https://github.com/ranja-sarkar/networks-graphs/assets/101544669/be422333-5db9-4afb-90c6-b2150109aef6">
 
@@ -38,13 +38,13 @@ The method ingeniously combines the logic of Dijkstra's and the Bellman-Ford alg
 
 💡*A fundamental problem just got a new & faster solution*.
 
------
+
 
 📌 Developing [knowledge graphs](https://colab.research.google.com/drive/1EF_ra7u6qHqG5p5vmYDYC9X5Y06hsub7) from unstructured data (documents, web, etc.)
 
 📌 Social network analysis of [connections](https://github.com/ranja-sarkar/networks-graphs/blob/444b74e376a707b09870ddfe6e282da526f1a75d/notebook/graphs-network.ipynb) on social networking site
 
-📌 Solving operations research (OR) problems like routing, packing, etc.utilizing [mathematical optimization](https://developers.google.com/optimization)
+📌 Solving operations research (OR) problems like routing, packing, etc. utilizing [mathematical optimization](https://developers.google.com/optimization)
 
 ---
 
