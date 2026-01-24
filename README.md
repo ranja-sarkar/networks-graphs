@@ -1,11 +1,11 @@
 
 During my postdoctoral research (2013 - 2018) I had studied **proteins** as [networks](https://www.pnas.org/doi/full/10.1073/pnas.0902159106). Proteins are very dynamic entities and I studied their dynamics with [coarse-grained](https://pmc.ncbi.nlm.nih.gov/articles/PMC6320916/) (molecular level) and fine-grained (atomic level) network models. I published my findings in journal papers 👇 for a class of structurally homologous proteins. 
 
-I used the python package [Prody](http://prody.csb.pitt.edu/tutorials/enm_analysis/) for my study. Another open-source resource is [Bio3D](http://thegrantlab.org/bio3d_v2/tutorials/normal-mode-analysis/) that uses R, and used to study native dynamics of proteins.
+I used the python package [Prody](http://prody.csb.pitt.edu/tutorials/enm_analysis/) for my study. Another open-source resource is [Bio3D](http://thegrantlab.org/bio3d_v2/tutorials/normal-mode-analysis/) that uses R, and explores the native dynamics of proteins.
 
 <img width="287" alt="1" src="https://github.com/ranja-sarkar/networks-graphs/assets/101544669/c5f569bd-69ef-42b9-aaf3-ec9d817d405c">
 
-I utilized elastic network model (ENM), and anisotropic network model (ANM) at the atomic level to study conformational flexibility of protein. Flexibility in conformations are essential for the proteins to function. I leveraged [Principal component analysis](https://www.cell.com/biophysj/fulltext/S0006-3495(14)01570-7) (PCA) to understand the [normal modes or equilibrium conformations](https://www3.mpibpc.mpg.de/groups/de_groot/pdf/Hayward_deGroot_nm_ed.pdf) of the proteins.
+I utilized elastic network model (ENM), and anisotropic network model (ANM) at the atomic level to study conformational flexibility of protein. Flexibility in conformations are essential for the proteins to function. I leveraged [Principal component analysis](https://www.cell.com/biophysj/fulltext/S0006-3495(14)01570-7) (PCA) to understand the [normal modes](https://www3.mpibpc.mpg.de/groups/de_groot/pdf/Hayward_deGroot_nm_ed.pdf) or equilibrium structures of the proteins.
 
 📌 My papers:
 
