@@ -25,13 +25,12 @@ Having shifted my research focus from Mathematical Physics (doctoral) to Biophys
 
 -----
 
-# OTHER USE CASES
+# Other use cases of networks/graphs
 
-📌 Optimal flight routes in terms of distance & airtime using **Dijkstra algorithm** from ([**weighted**](https://distill.pub/2021/gnn-intro/)) graphs
+📌 Finidng optimal flight routes in terms of distance & airtime, using [Dijkstra algorithm](https://mathworld.wolfram.com/DijkstrasAlgorithm.html) used for a graph geodesic.
 
 <img width="464" alt="ff" src="https://github.com/user-attachments/assets/b38b587e-ac0b-4603-90ca-a596da47feab" />
 
-The Dijkstra algorithm for a graph geodesic is in [the Wolfram webpage](https://mathworld.wolfram.com/DijkstrasAlgorithm.html).
 
 **For many decades, Dijkstra's algorithm has been the undisputed champion for finding the shortest path in graphs. However, the first major breakthrough for the directed Single-Source Shortest Path (SSSP) problem on real-weighted graphs, breaking the long-standing "sorting barrier" that made Dijkstra's algorithm seem optimal arrived in [2025](https://arxiv.org/pdf/2504.17033).**
 
@@ -43,7 +42,7 @@ The method ingeniously combines the logic of Dijkstra's and the Bellman-Ford alg
 
 📌 **Knowledge graphs** ([directed](https://colab.research.google.com/drive/1EF_ra7u6qHqG5p5vmYDYC9X5Y06hsub7)) from unstructured data (document, web, etc.)
 
-📌 **Social network analysis** with graphs from your [data of connections](https://github.com/ranja-sarkar/networks-graphs/blob/444b74e376a707b09870ddfe6e282da526f1a75d/notebook/graphs-network.ipynb) on social networking site
+📌 **Social network analysis** from your [data of connections](https://github.com/ranja-sarkar/networks-graphs/blob/444b74e376a707b09870ddfe6e282da526f1a75d/notebook/graphs-network.ipynb) on social networking site
 
 📌 **Operations research (OR)** problems like routing, packing, etc.are solved utilizing [mathematical optimization](https://developers.google.com/optimization)
 
