@@ -19,7 +19,7 @@ Having shifted my research focus from Mathematical Physics (doctoral) to Biophys
 
 -----
 
-**Chapter 6** (**Graphs**) of my book [*A handbook of mathematical models with python*](https://ranja-sarkar.github.io/) published in 2023 is dedicated to graphs and networks, graph-structured data, and how these structures of text, images etc. serve as inputs to graph neural networks (GNNs). 
+**Chapter 6** (**Graphs**) of my book [A handbook of mathematical models with python](https://ranja-sarkar.github.io/) published in 2023 is dedicated to graphs and networks, graph-structured data, and how these structures of text, images etc. serve as inputs to graph neural networks (GNNs). 
 
 <img width="299" alt="3" src="https://github.com/ranja-sarkar/networks-graphs/assets/101544669/be422333-5db9-4afb-90c6-b2150109aef6">
 
@@ -32,7 +32,7 @@ Having shifted my research focus from Mathematical Physics (doctoral) to Biophys
 <img width="464" alt="ff" src="https://github.com/user-attachments/assets/b38b587e-ac0b-4603-90ca-a596da47feab" />
 
 
-**For many decades, Dijkstra's algorithm has been the undisputed champion for finding the shortest path in graphs. However, the first major breakthrough for the directed Single-Source Shortest Path (SSSP) problem on real-weighted graphs, breaking the long-standing "sorting barrier" that made Dijkstra's algorithm seem optimal arrived in [2025](https://arxiv.org/pdf/2504.17033).**
+*For many decades, Dijkstra's algorithm has been the undisputed champion for finding the shortest path in graphs. However, the first major breakthrough for the directed Single-Source Shortest Path (SSSP) problem on real-weighted graphs, breaking the long-standing "sorting barrier" that made Dijkstra's algorithm seem optimal arrived in [2025](https://arxiv.org/pdf/2504.17033).*
 
 The method ingeniously combines the logic of Dijkstra's and the Bellman-Ford algorithms. Through a clever recursive technique, it avoids the need to fully sort vertices by distance which was the bottleneck. The result is a [faster](https://ranjas.substack.com/p/data-structures-and-algorithms), deterministic algorithm that runs in O(mlog2/3n) time. This has practical implications for speeding up route calculations in GPS, optimizing data flow in computer networks, and improving efficiency in logistics. 
 
@@ -40,10 +40,10 @@ The method ingeniously combines the logic of Dijkstra's and the Bellman-Ford alg
 
 -----
 
-📌 **Knowledge graphs** ([directed](https://colab.research.google.com/drive/1EF_ra7u6qHqG5p5vmYDYC9X5Y06hsub7)) from unstructured data (document, web, etc.)
+📌 Developing [knowledge graphs](https://colab.research.google.com/drive/1EF_ra7u6qHqG5p5vmYDYC9X5Y06hsub7)) from unstructured data (documents, web, etc.)
 
-📌 **Social network analysis** from your [data of connections](https://github.com/ranja-sarkar/networks-graphs/blob/444b74e376a707b09870ddfe6e282da526f1a75d/notebook/graphs-network.ipynb) on social networking site
+📌 Social network analysis of [connections](https://github.com/ranja-sarkar/networks-graphs/blob/444b74e376a707b09870ddfe6e282da526f1a75d/notebook/graphs-network.ipynb) on social networking site
 
-📌 **Operations research (OR)** problems like routing, packing, etc.are solved utilizing [mathematical optimization](https://developers.google.com/optimization)
+📌 Solving operations research (OR) problems like routing, packing, etc.utilizing [mathematical optimization](https://developers.google.com/optimization)
 
 
