@@ -42,6 +42,8 @@ The method ingeniously combines the logic of Dijkstra's and the Bellman-Ford alg
 
 📌 Developing [knowledge graphs](https://colab.research.google.com/drive/1EF_ra7u6qHqG5p5vmYDYC9X5Y06hsub7) from unstructured data (documents, web, etc.)
 
+A knowledge graph makes data more valuable by extracting, connecting, and serving up your knowledge.
+
 📌 Social network analysis of [connections](https://github.com/ranja-sarkar/networks-graphs/blob/444b74e376a707b09870ddfe6e282da526f1a75d/notebook/graphs-network.ipynb) on social networking site
 
 📌 Solving operations research (OR) problems like routing, packing, etc. utilizing [mathematical optimization](https://developers.google.com/optimization)
