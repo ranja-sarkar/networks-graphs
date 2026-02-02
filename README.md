@@ -17,13 +17,11 @@ I used the python package [Prody](http://prody.csb.pitt.edu/tutorials/enm_analys
 
 I utilized elastic network model (ENM), and anisotropic network model (ANM) at the atomic level to study conformational flexibility of protein. Flexibility in conformations is essential for the proteins to function. I leveraged [principal component analysis (PCA)](https://www.cell.com/biophysj/fulltext/S0006-3495(13)03575-3) to understand their [normal modes](https://www3.mpibpc.mpg.de/groups/de_groot/pdf/Hayward_deGroot_nm_ed.pdf), or their equilibrium structures.
 
-📌 My papers:
+My publications - 
 
 1. [Native flexibility of structurally homologous proteins](https://link.springer.com/article/10.1186/s13628-017-0034-9)
 
 2. [Stiffening of flexible SUMO1 protein upon peptide-binding: Analysis with ANM](https://www.sciencedirect.com/science/article/abs/pii/S0025556417303140)
-
------
 
 
 **Chapter 6** (**Graphs**) of my book [A handbook of mathematical models with python](https://ranja-sarkar.github.io/) published in 2023 is dedicated to graphs and networks. It is about how graph-structured data (images, text, etc.) serve as input to [graph neural networks (GNNs)](https://distill.pub/2021/gnn-intro/). 
@@ -31,7 +29,6 @@ I utilized elastic network model (ENM), and anisotropic network model (ANM) at t
 <img width="322" height="125" alt="11" src="https://github.com/user-attachments/assets/666c72ea-b711-4c95-b847-3cfaad799c1c" />
 
 
------
 
 # Where else are they used?
 
