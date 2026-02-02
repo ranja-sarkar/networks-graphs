@@ -7,7 +7,7 @@ I used the python package [Prody](http://prody.csb.pitt.edu/tutorials/enm_analys
 
 <img width="287" alt="1" src="https://github.com/ranja-sarkar/networks-graphs/assets/101544669/c5f569bd-69ef-42b9-aaf3-ec9d817d405c">
 
-I utilized elastic network model (ENM), and anisotropic network model (ANM) at the atomic level to study conformational flexibility of protein. Flexibility in conformations are essential for the proteins to function. I leveraged [principal component analysis (PCA)](https://www.cell.com/biophysj/fulltext/S0006-3495(13)03575-3) to understand their [normal modes](https://www3.mpibpc.mpg.de/groups/de_groot/pdf/Hayward_deGroot_nm_ed.pdf), in other words their equilibrium structures.
+I utilized elastic network model (ENM), and anisotropic network model (ANM) at the atomic level to study conformational flexibility of protein. Flexibility in conformations is essential for the proteins to function. I leveraged [principal component analysis (PCA)](https://www.cell.com/biophysj/fulltext/S0006-3495(13)03575-3) to understand their [normal modes](https://www3.mpibpc.mpg.de/groups/de_groot/pdf/Hayward_deGroot_nm_ed.pdf), or their equilibrium structures.
 
 📌 My papers:
 
