@@ -22,7 +22,7 @@ My publications -
 2. [Stiffening of flexible SUMO1 protein upon peptide-binding: Analysis with ANM](https://www.sciencedirect.com/science/article/abs/pii/S0025556417303140)
 
 
-**Chapter 6** (**Graphs**) of my book [A handbook of mathematical models with python](https://ranja-sarkar.github.io/) published in 2023 is dedicated to graphs and networks. It is about how graph data structures serve as input to [graph neural networks (GNNs)](https://distill.pub/2021/gnn-intro/). 
+**Chapter 6** (Graphs) of my book [A handbook of mathematical models with python](https://ranja-sarkar.github.io/) published in 2023 is dedicated to graphs and networks. It is about how graph data structures serve as input to [graph neural networks (GNNs)](https://distill.pub/2021/gnn-intro/). 
 
 <img width="322" height="125" alt="11" src="https://github.com/user-attachments/assets/666c72ea-b711-4c95-b847-3cfaad799c1c" />
 
@@ -30,7 +30,7 @@ My publications -
 
 # Where else are they used?
 
-Networks/graphs are used to represent complex systems visually and mathematically. They are used to find shortest paths like in GPS. And they are also used to develop efficient ways to solve optimization problems.
+Networks/graphs are used to represent complex systems visually and mathematically. They are used to find shortest paths like in GPS. They are also used to develop efficient ways of solving optimization problems.
 
 📌 Finidng optimal flight routes in terms of distance & airtime, with [Dijkstra algorithm](https://mathworld.wolfram.com/DijkstrasAlgorithm.html) used for a graph geodesic 
 
