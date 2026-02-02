@@ -24,7 +24,7 @@ My publications -
 2. [Stiffening of flexible SUMO1 protein upon peptide-binding: Analysis with ANM](https://www.sciencedirect.com/science/article/abs/pii/S0025556417303140)
 
 
-**Chapter 6** (**Graphs**) of my book [A handbook of mathematical models with python](https://ranja-sarkar.github.io/) published in 2023 is dedicated to graphs and networks. It is about how graph-structured data (images, text, etc.) serve as input to [graph neural networks (GNNs)](https://distill.pub/2021/gnn-intro/). 
+**Chapter 6** (**Graphs**) of my book [A handbook of mathematical models with python](https://ranja-sarkar.github.io/) published in 2023 is dedicated to graphs and networks. It is about how graph data structures serve as input to [graph neural networks (GNNs)](https://distill.pub/2021/gnn-intro/). 
 
 <img width="322" height="125" alt="11" src="https://github.com/user-attachments/assets/666c72ea-b711-4c95-b847-3cfaad799c1c" />
 
@@ -46,17 +46,22 @@ The method ingeniously combines the logic of Dijkstra's and the Bellman-Ford alg
 💡*A fundamental problem just got a new & faster solution*.
 
 
-
 📌 Developing [knowledge graphs](https://colab.research.google.com/drive/1EF_ra7u6qHqG5p5vmYDYC9X5Y06hsub7) from unstructured data (documents, web, etc.)
 
-A knowledge graph makes data more valuable by extracting, connecting, and serving up your knowledge. It provides structure and context, so AI can reason with more accuracy and transparency. 
+A knowledge graph makes data more valuable by extracting, connecting, and serving up knowledge. It provides structure and context, so AI can reason with more accuracy and transparency. 
 
 [Deciding what belongs in the graph](https://aijourn.com/prioritizing-data-lake-information-to-build-a-knowledge-graph-aka-dont-boil-the-whole-lake/) is the most important step. This is knowing what nodes or features (and their edges) are necessary, there maybe nodes which are not supported due to missing data, etc.. The first layer in the network might represent a small fraction of all the data (knowledge is signal, not noise). Layers are connected to it when value emerges, gradually expanding the model by adding new data sources to address other business problems. Essentially, a knowledge graph lets us focus on the macroscopic level first, then addition of layers is focusing on the microscopic or granular events as and when demanded by the business. 
 
 📌 Solving operations research (OR) problems like routing, [packing](https://github.com/ranja-sarkar/Optimization-NOGD/blob/443c4fe051343b33fe8c16aa878c5b9b97f2b9d3/knapsack_problem.md), utilizing [mathematical optimization](https://developers.google.com/optimization) (Google OR-Tools)
 
 
-📌 Social network analysis of [connections](https://github.com/ranja-sarkar/networks-graphs/blob/444b74e376a707b09870ddfe6e282da526f1a75d/notebook/graphs-network.ipynb) on social networking site
+📌 Analysis of [social networks](https://github.com/ranja-sarkar/networks-graphs/blob/444b74e376a707b09870ddfe6e282da526f1a75d/notebook/graphs-network.ipynb)
+
+Social networks represent relationships involving social entities such as friendships among individuals, communication in a group, or transactions between corporations. Finding important actors, discovering cohesive groups/communities, or identifying actors that are similar in some way are examples of analysis that can be done for social networks. Social networks are accessible from a variety of sources, including directly from networking sites (Linkedin, Facebook, etc.). The analysis of such networks makes it possible to rank actors from their centralities, or provide recommendations based on similar actors, etc..
+
+-----
+
+The subject that expresses and understands real-world systems as a network is network science.
 
 
 
