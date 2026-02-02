@@ -53,10 +53,11 @@ A knowledge graph makes data more valuable by extracting, connecting, and servin
 
 [Deciding what belongs in the graoh](https://aijourn.com/prioritizing-data-lake-information-to-build-a-knowledge-graph-aka-dont-boil-the-whole-lake/) is the most important step. This is knowing what nodes or features (and their edges) are necessary, there maybe nodes which are not supported due to missing data, etc.. The first layer in the network might represent a small fraction of all the data (knowledge is signal, not noise). Layers are connected to it when value emerges, gradually expanding the model by adding new data sources to address other business problems. Essentially, a knowledge graph lets us focus on the macroscopic level first, then addition of layers is focusing on the microscopic or granular events as and when demanded by the business. 
 
+📌 Solving operations research (OR) problems like routing, [packing](https://github.com/ranja-sarkar/Optimization-NOGD/blob/443c4fe051343b33fe8c16aa878c5b9b97f2b9d3/knapsack_problem.md), utilizing [mathematical optimization](https://developers.google.com/optimization)
+
 
 📌 Social network analysis of [connections](https://github.com/ranja-sarkar/networks-graphs/blob/444b74e376a707b09870ddfe6e282da526f1a75d/notebook/graphs-network.ipynb) on social networking site
 
-📌 Solving operations research (OR) problems like routing, packing, etc. utilizing [mathematical optimization](https://developers.google.com/optimization)
 
----
+
 
