@@ -26,11 +26,16 @@ My publications -
 
 <img width="322" height="125" alt="11" src="https://github.com/user-attachments/assets/666c72ea-b711-4c95-b847-3cfaad799c1c" />
 
+It is mentionworthy that **all neural networks are networks, but all networks are not neural**. 
+In neural networks, there is one input layer of modes, (one or multiple) hidden layer of nodes, and an output layer of one or multiple nodes. All or not all nodes of the input and hidden layers are linked, the input and output layers are indirectly connected via the hidden layer.
+
+<img width="149" height="179" alt="nn" src="https://github.com/user-attachments/assets/53367291-5d2d-4a62-b9ee-1bcc02dcdb04" />
+
 -----
 
-# Where else are they used?
+# Where else are networks/graphs used?
 
-Networks/graphs are used to represent complex systems visually and mathematically. They are used to find shortest paths like in GPS. They are also used to develop efficient ways of solving optimization problems.
+They are used to represent complex systems visually and mathematically. They are used to find shortest paths like in GPS. They are also used to develop efficient ways of solving optimization problems.
 
 📌 Finding optimal flight routes in terms of distance & airtime, with [Dijkstra algorithm](https://mathworld.wolfram.com/DijkstrasAlgorithm.html) used for a graph geodesic 
 
