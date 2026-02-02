@@ -1,4 +1,6 @@
 
+Graphs are fundamental mathematical structures, representing objects (or nodes) and their connections (or edges). Networks are graphs with added meaning like weights or directions, used to model real-world systems from social connections to biomacromaolecules. Networks have vertices (or nodes) linked by relationships (or edges) providing tools to understand complex systems in various fields.
+
 During my postdoctoral research (2013 - 2018) I had studied proteins as [networks](https://www.pnas.org/doi/full/10.1073/pnas.0902159106). Proteins are very dynamic entities and I studied their dynamics with [coarse-grained](https://pmc.ncbi.nlm.nih.gov/articles/PMC6320916/) (molecular level) and fine-grained (atomic level) network models. I published my findings in journal papers 👇 for a class of structurally homologous proteins. 
 
 I used the python package [Prody](http://prody.csb.pitt.edu/tutorials/enm_analysis/) for my study. Another open-source resource is [Bio3D](http://thegrantlab.org/bio3d_v2/tutorials/normal-mode-analysis/) that uses R, and explores the native dynamics of proteins.
