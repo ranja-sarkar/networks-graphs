@@ -3,6 +3,12 @@ Graphs are fundamental mathematical structures, representing objects (or nodes) 
 
 During my postdoctoral research (2013 - 2018) I had studied proteins as [networks](https://www.pnas.org/doi/full/10.1073/pnas.0902159106). Proteins are very dynamic entities and I studied their dynamics with [coarse-grained](https://pmc.ncbi.nlm.nih.gov/articles/PMC6320916/) (molecular level) and fine-grained (atomic level) network models. I published my findings in journal papers 👇 for a class of structurally homologous proteins. 
 
+---
+
+Having shifted my research focus from Mathematical Physics (doctoral) to Biophysics (postdoctoral), I did not really realize at that time that **Network Science** is relevant for other systems like social media, logistics & transportation, recommenders as well. When I come to think of it now, it only takes knowing how to connect the nodes with edges in a complex world. It is no surprise at all that the importance of networks is ever-growing.
+
+---
+
 I used the python package [Prody](http://prody.csb.pitt.edu/tutorials/enm_analysis/) for my study. Another open-source resource is [Bio3D](http://thegrantlab.org/bio3d_v2/tutorials/normal-mode-analysis/) that uses R, and explores the native dynamics of proteins.
 
 <img width="287" alt="1" src="https://github.com/ranja-sarkar/networks-graphs/assets/101544669/c5f569bd-69ef-42b9-aaf3-ec9d817d405c">
@@ -17,9 +23,6 @@ I utilized elastic network model (ENM), and anisotropic network model (ANM) at t
 
 -----
 
-Having shifted my research focus from Mathematical Physics (doctoral) to Biophysics (postdoctoral), I did not really realize at that time that **Network Science** is relevant for other systems like social media, logistics & transportation, recommenders as well. When I come to think of it now, it only takes knowing how to connect the nodes (entities) with edges (relationships) in a complex world. It is no surprise at all that the importance of networks is ever-growing.
-
------
 
 **Chapter 6** (**Graphs**) of my book [A handbook of mathematical models with python](https://ranja-sarkar.github.io/) published in 2023 is dedicated to graphs and networks. It is about how graph-structured data (images, text, etc.) serve as input to [graph neural networks (GNNs)](https://distill.pub/2021/gnn-intro/). 
 
