@@ -30,9 +30,11 @@ I utilized elastic network model (ENM), and anisotropic network model (ANM) at t
 
 -----
 
-# Other use cases of networks/graphs
+# Where else are they used?
 
-📌 Finidng optimal flight routes in terms of distance & airtime, using [Dijkstra algorithm](https://mathworld.wolfram.com/DijkstrasAlgorithm.html) used for a graph geodesic.
+Networks/graphs are used to represent complex systems visually and mathematically. They are used to find shortest paths like in GPS. And they are also used to develop efficient ways to solve optimization problems.
+
+📌 Finidng optimal flight routes in terms of distance & airtime, with [Dijkstra algorithm](https://mathworld.wolfram.com/DijkstrasAlgorithm.html) used for a graph geodesic 
 
 <img width="464" alt="ff" src="https://github.com/user-attachments/assets/b38b587e-ac0b-4603-90ca-a596da47feab" />
 
