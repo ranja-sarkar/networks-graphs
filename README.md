@@ -13,7 +13,7 @@ I used the python package [Prody](http://prody.csb.pitt.edu/tutorials/enm_analys
 
 <img width="287" alt="1" src="https://github.com/ranja-sarkar/networks-graphs/assets/101544669/c5f569bd-69ef-42b9-aaf3-ec9d817d405c">
 
-I utilized elastic network model (ENM), and anisotropic network model (ANM) at the atomic level to study conformational flexibility of proteins or their [equilibrium structures](https://mode-task.readthedocs.io/en/latest/theory.html). Flexibility in conformations is essential for the proteins to function. I leveraged [principal component analysis (PCA)](https://www.cell.com/biophysj/fulltext/S0006-3495(13)03575-3) to understand their [normal modes](https://www3.mpibpc.mpg.de/groups/de_groot/pdf/Hayward_deGroot_nm_ed.pdf). For proteins, normal mode analysis is useful for studying the large amplitude motions for a selected conformation. 
+I utilized elastic network model (ENM), and anisotropic network model (ANM) at the atomic level to study conformational flexibility of proteins or their [equilibrium structures](https://mode-task.readthedocs.io/en/latest/theory.html). Flexibility in conformations is essential for the proteins to function. I leveraged [principal component analysis (PCA)](https://www.cell.com/biophysj/fulltext/S0006-3495(13)03575-3) to understand their [normal modes](https://www3.mpibpc.mpg.de/groups/de_groot/pdf/Hayward_deGroot_nm_ed.pdf). For proteins, normal mode analysis is useful to study the large amplitude motions for a selected conformation. 
 
 My publications - 
 
@@ -66,7 +66,9 @@ Social networks represent relationships involving social entities such as friend
 
 -----
 
-The subject that expresses and understands real-world systems as a network is network science.
+The subject that expresses and understands real-world systems as a network is Network Science.
+
+<img width="226" height="188" alt="net" src="https://github.com/user-attachments/assets/d37ee910-5a70-40de-88d7-257fe38ba713" />
 
 
 
